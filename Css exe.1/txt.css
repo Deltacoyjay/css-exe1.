@@ -1,0 +1,26 @@
+ul {
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+    list-style-position: inside;
+    
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #637eb8;
+}
+#wrap {
+    text-align: auto;
+    width: 900px;
+    margin: auto;
+}
+#txt {
+    text-align: center;
+}
+a {
+    color: #702185;
+}
+.copyright {
+    font-style: italic;
+    font-size: small;
+}
